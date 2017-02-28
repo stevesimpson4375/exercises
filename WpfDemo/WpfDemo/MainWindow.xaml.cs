@@ -19,6 +19,7 @@ namespace WpfDemo
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// http://stackoverflow.com/questions/14500559/create-custom-wpf-event
+    /// https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40).aspx
     /// </summary>
     public partial class MainWindow : Window
     {
